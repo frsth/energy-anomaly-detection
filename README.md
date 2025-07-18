@@ -14,6 +14,7 @@ See `Detecting Faulty Energy Consumption.pdf` more details.
 
 ### Clone repo:
 git clone https://github.com/frsth/energy-anomaly-detection.git
+
 cd energy-anomaly-detection
 
 

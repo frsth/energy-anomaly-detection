@@ -17,9 +17,9 @@ git clone https://github.com/frsth/energy-anomaly-detection.git
 cd energy-anomaly-detection
 
 
-### Create env
+### Create and activate env
 conda env create -f environment.yml
-conda activate energy-anomaly
+conda activate hd-energy
 
 ### Run Script with your data
 python src/main.py --test_data_csv_path <your_path>

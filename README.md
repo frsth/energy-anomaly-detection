@@ -22,4 +22,4 @@ conda env create -f environment.yml
 conda activate energy-anomaly
 
 ### Run Script with your data
-python main.py --test_csv data/processed/test_data.csv
+python src/main.py --test_data_csv_path <your_path>

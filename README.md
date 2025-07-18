@@ -19,6 +19,7 @@ cd energy-anomaly-detection
 
 ### Create and activate env
 conda env create -f environment.yml
+
 conda activate hd-energy
 
 ### Run Script with your data
